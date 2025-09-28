@@ -1,0 +1,124 @@
+{
+    "Tool":[
+            {
+      "name": "Shovel",
+      "type": "Tool",
+      "rarity": "Common",
+      "sell_worth": "50000",
+      "sources": "source(s)\nmarket new player pack searchshop"
+            },
+            {
+      "name": "Hunting Rifle",
+      "type": "Tool",
+      "rarity": "Common",
+      "sell_worth": "50000",
+      "sources": "source(s)\nmarket new player pack shop"
+        },  
+        
+            {
+      "name": "Mouse",
+      "type": "Tool",
+      "rarity": "Uncommon",
+      "sell_worth": "100000",
+      "sources": "source(s)\nmarket stream shop"
+    },
+        {
+      "name": "Keyboard",
+      "type": "Tool",
+      "rarity": "Uncommon",
+      "sell_worth": "100000",
+      "sources": "source(s)\nmarket shop stream"
+    },
+        {
+      "name": "Adventure Ticket",
+      "type": "Tool",
+      "rarity": "Common",
+      "sell_worth": "250000",
+      "sources": "source(s)\ndaily boxdank boxgod boxmeme boxmarket postmemes shop scratc hvote levels vote packs"
+    },
+
+        {
+      "name": "Hoe",
+      "type": "Tool",
+      "rarity": "Uncommon",
+      "sell_worth": "100000",
+      "sources": "source(s)\nmarket shop"
+    },
+        {
+      "name": "Water Bucket",
+      "type": "Tool",
+      "rarity": "Rare",
+      "sell_worth": "100000",
+      "sources": "source(s)\nmarket daily box shop"
+    },
+        {
+      "name": "Cell Phone",
+      "type": "Tool",
+      "rarity": "Common",
+      "sell_worth": "3000",
+      "sources": "source(s)\nmarket offers shop search crime events"
+    },
+        {
+      "name": "Robbers Wishlist",
+      "type": "Tool",
+      "rarity": "Common",
+      "sell_worth": "500000",
+      "sources": "source(s)\nmarketsearch"
+    },
+        {
+      "name": "Pet Food",
+      "type": "Tool",
+      "rarity": "Rare",
+      "sell_worth": "150000",
+      "sources": "source(s)\nmarketcrafting"
+    }
+    ],
+    "Power-up":[
+        {
+      "name": "Bank Note",
+      "type": "Power-up",
+      "rarity": "Common",
+      "sell_worth": "250000",
+      "sources": "source(s)\nmarket offersbegsearchpostmemesvote packs"
+    },
+        {
+      "name": "Life Saver",
+      "type": "Power-up",
+      "rarity": "Uncommon",
+      "sell_worth": "250000",
+      "sources": "source(s)\nmarket offerspet fetchsearchpostmemesshop"
+    },
+        {
+      "name": "Apple",
+      "type": "Power-up",
+      "rarity": "Common",
+      "sell_worth": "45000",
+      "sources": "source(s)\nmarketsearchpostmemesbeg"
+    },
+        {
+      "name": "Alcohol",
+      "type": "Power-up",
+      "rarity": "Uncommon",
+      "sell_worth": "85000",
+      "sources": "source(s)\nmarketsearchbeggrind  pack"
+    }
+    ],
+    "Collectable":[
+            {
+      "name": "Engagement Ring",
+      "type": "Collectable",
+      "rarity": "Uncommon",
+      "sell_worth": "5000000",
+      "sources": "source(s)\nmarketshop"
+    }
+    ],
+     "Consumed on use": [
+    {
+      "name": "Padlock",
+      "type": "Consumed on use",
+      "rarity": "Common",
+      "sell_worth": "50000",
+      "sources": "source(s)\nmarketanti-rob packbegpostmemessearchpetshop"
+    }
+  ]
+}

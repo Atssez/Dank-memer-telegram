@@ -1,0 +1,1901 @@
+{
+  "items": [
+    {
+      "name": "A plus",
+      "type": "Sellable",
+      "rarity": "Epic",
+      "sell_worth": "200000",
+      "sources": "source(s)\nmarketwork boxwork"
+    },
+    {
+      "name": "Adventure Compass",
+      "type": "Power-up",
+      "rarity": "Epic",
+      "sell_worth": "16667",
+      "sources": "source(s)\nwork"
+    },
+    {
+      "name": "Adventure Ticket",
+      "type": "Tool",
+      "rarity": "Common",
+      "sell_worth": "25000",
+      "sources": "source(s)\ndaily boxdank boxgod boxmeme boxmarketpostmemesshopscratchvote levelsvote packs"
+    },
+    {
+      "name": "Adventure Voucher",
+      "type": "Collectable",
+      "rarity": "Rare",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarketcraft"
+    },
+    {
+      "name": "Aetheryx' Flower",
+      "type": "Collectable",
+      "rarity": "Epic",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 searching\u2022 developer boxes\u2022 santa's bags\u2022 wedding gifts\u2022 scratch"
+    },
+    {
+      "name": "Aha's Pitcher Plant",
+      "type": "Sellable",
+      "rarity": "Godly",
+      "sell_worth": "214000",
+      "sources": "source(s)\nmarketdeveloper box"
+    },
+    {
+      "name": "Aiphey's Gemstone",
+      "type": "Collectable",
+      "rarity": "Rare",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarketrusty machinedeveloper box"
+    },
+    {
+      "name": "Alcohol",
+      "type": "Power-up",
+      "rarity": "Uncommon",
+      "sell_worth": "3334",
+      "sources": "source(s)\nmarketsearchbeggrind  pack"
+    },
+    {
+      "name": "Alien Sample",
+      "type": "Collectable",
+      "rarity": "Uncommon",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 \"space!\" adventure\u2022 \"space!\" loot box"
+    },
+    {
+      "name": "Ammo",
+      "type": "Power-up",
+      "rarity": "Rare",
+      "sell_worth": "16667",
+      "sources": "source(s)\nmarketwork"
+    },
+    {
+      "name": "Ant",
+      "type": "Sellable",
+      "rarity": "Common",
+      "sell_worth": "2250",
+      "sources": ""
+    },
+    {
+      "name": "Anti-Rob Pack",
+      "type": "Unknown",
+      "rarity": "Unknown",
+      "sell_worth": "N/A",
+      "sources": ""
+    },
+    {
+      "name": "Apple",
+      "type": "Power-up",
+      "rarity": "Common",
+      "sell_worth": "1417",
+      "sources": "source(s)\nmarketsearchpostmemesbeg"
+    },
+    {
+      "name": "Apron",
+      "type": "Collectable",
+      "rarity": "Rare",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarketsearch"
+    },
+    {
+      "name": "Armpit Hair",
+      "type": "Collectable",
+      "rarity": "Common",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 search"
+    },
+    {
+      "name": "Baby",
+      "type": "Collectable",
+      "rarity": "Rare",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 achievement\u2022 work"
+    },
+    {
+      "name": "Badosz's Card",
+      "type": "Collectable",
+      "rarity": "Rare",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 search\u2022 crime\u2022 developer boxes\u2022 santa's bag"
+    },
+    {
+      "name": "Bait Box",
+      "type": "Loot Box",
+      "rarity": "Godly",
+      "sell_worth": "1000000",
+      "sources": "source(s)\ngem shopmarketvotingfreemium"
+    },
+    {
+      "name": "Ban Hammer",
+      "type": "Sellable",
+      "rarity": "Uncommon",
+      "sell_worth": "262800",
+      "sources": "source(s)\nmarket offerswork boxwork"
+    },
+    {
+      "name": "Bank Note",
+      "type": "Power-up",
+      "rarity": "Common",
+      "sell_worth": "30000",
+      "sources": "source(s)\nmarket offersbegsearchpostmemesvote packs"
+    },
+    {
+      "name": "Barracuda",
+      "type": "TBA (Most likely Sellable)",
+      "rarity": "TBA",
+      "sell_worth": "N/A",
+      "sources": "source(s)\ntba (most likely fishing)"
+    },
+    {
+      "name": "Barrel of Sludge",
+      "type": "Collectable",
+      "rarity": "Rare",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022  market offers\u2022 search"
+    },
+    {
+      "name": "Beaker of sus fluid",
+      "type": "Sellable",
+      "rarity": "Rare",
+      "sell_worth": "2190000",
+      "sources": ""
+    },
+    {
+      "name": "Bean",
+      "type": "Sellable",
+      "rarity": "Uncommon",
+      "sell_worth": "30000",
+      "sources": ""
+    },
+    {
+      "name": "Bean Mp3 Player",
+      "type": "Trinket",
+      "rarity": "Legendary",
+      "sell_worth": "1",
+      "sources": "source(s)\n\u2022 market\u2022 craft \u2022 omega shop"
+    },
+    {
+      "name": "Bean Seeds",
+      "type": "Tool",
+      "rarity": "Rare",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarketspecific farm patternreaching a specific vote level"
+    },
+    {
+      "name": "Berries and Cream",
+      "type": "Collectable",
+      "rarity": "Epic",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 old boxes\u2022 event (formerly)"
+    },
+    {
+      "name": "Binary",
+      "type": "Collectable",
+      "rarity": "Rare",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 work\u2022 work box"
+    },
+    {
+      "name": "Birthday Cake",
+      "type": "Collectable",
+      "rarity": "Godly",
+      "sell_worth": "N/A",
+      "sources": "source(s)\ndrops"
+    },
+    {
+      "name": "Black Hole",
+      "type": "Collectable",
+      "rarity": "Uncommon",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarketspace adventure box\"pepe goes to space!\" adventure"
+    },
+    {
+      "name": "Blob",
+      "type": "Collectable",
+      "rarity": "Godly",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 events (limited)"
+    },
+    {
+      "name": "Blue's Plane",
+      "type": "Collectable",
+      "rarity": "Rare",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 developer box\u2022 search"
+    },
+    {
+      "name": "Blue Plastic Bits",
+      "type": "Collectable",
+      "rarity": "Common",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 searching\u2022 fishing\u2022 posting memes\u2022 plastic boxes\u2022 scratching"
+    },
+    {
+      "name": "Boar",
+      "type": "Sellable",
+      "rarity": "Common",
+      "sell_worth": "12390",
+      "sources": "source(s)\nmarkethunt"
+    },
+    {
+      "name": "Bolt Cutters",
+      "type": "Collectable",
+      "rarity": "Epic",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 achievement\u2022 god boxes\u2022 vote level 92"
+    },
+    {
+      "name": "Bottle of Whiskey",
+      "type": "Power-up",
+      "rarity": "Rare",
+      "sell_worth": "16667",
+      "sources": "source(s)\nmarketwork boxesworkcrime"
+    },
+    {
+      "name": "Box Box",
+      "type": "Loot Box",
+      "rarity": "Legendary",
+      "sell_worth": "1000000",
+      "sources": "source(s)\nmarketvote level 108"
+    },
+    {
+      "name": "Box of Sand",
+      "type": "Tool",
+      "rarity": "Uncommon",
+      "sell_worth": "834",
+      "sources": ""
+    },
+    {
+      "name": "Boxed Chocolates",
+      "type": "Consumable",
+      "rarity": "Rare",
+      "sell_worth": "166667",
+      "sources": ""
+    },
+    {
+      "name": "Broccoli",
+      "type": "Sellable",
+      "rarity": "Rare",
+      "sell_worth": "97500",
+      "sources": "source(s)\n\u2022 market\u2022 farm"
+    },
+    {
+      "name": "Broccoli Seeds",
+      "type": "Tool",
+      "rarity": "Rare",
+      "sell_worth": "16667",
+      "sources": "source(s)\nmarketfarmachievement"
+    },
+    {
+      "name": "Bundle Box",
+      "type": "Loot Box",
+      "rarity": "Godly",
+      "sell_worth": "1000000",
+      "sources": "source(s)\nmarketcompleting a bundle"
+    },
+    {
+      "name": "Cactus",
+      "type": "Collectable",
+      "rarity": "Rare",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 'out west' adventure\u2022 'out west' loot box"
+    },
+    {
+      "name": "Caipirinha",
+      "type": "Power-up",
+      "rarity": "Godly",
+      "sell_worth": "83334",
+      "sources": "source(s)\nmarketadventure"
+    },
+    {
+      "name": "Camera",
+      "type": "Tool",
+      "rarity": "Uncommon",
+      "sell_worth": "16667",
+      "sources": "source(s)\nmarketstreamachievements"
+    },
+    {
+      "name": "Candy",
+      "type": "Power-up",
+      "rarity": "Common",
+      "sell_worth": "4167",
+      "sources": "source(s)\nmarketbegsearchvoting (may be altered)"
+    },
+    {
+      "name": "Candy Cane",
+      "type": "Tool",
+      "rarity": "Uncommon",
+      "sell_worth": "16667",
+      "sources": "source(s)\nmarket"
+    },
+    {
+      "name": "Candy Corn",
+      "type": "Power-up",
+      "rarity": "Uncommon",
+      "sell_worth": "166667",
+      "sources": "source(s)\nmarketadventurevoting"
+    },
+    {
+      "name": "Carrot",
+      "type": "Swllable",
+      "rarity": "Rare",
+      "sell_worth": "57600",
+      "sources": "source(s)\n\u2022 market\u2022 farm"
+    },
+    {
+      "name": "Carrot Seeds",
+      "type": "Tool",
+      "rarity": "Rare",
+      "sell_worth": "16667",
+      "sources": "source(s)\nmarketfarmachievement"
+    },
+    {
+      "name": "Cell Phone",
+      "type": "Tool",
+      "rarity": "Common",
+      "sell_worth": "500",
+      "sources": "source(s)\nmarket offersshopsearchcrimeevents"
+    },
+    {
+      "name": "Chet's USB",
+      "type": "Tool",
+      "rarity": "Godly",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarket"
+    },
+    {
+      "name": "Chill Pill",
+      "type": "Collectable",
+      "rarity": "Common",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 search \u2022 crime\u2022 random events while using commands"
+    },
+    {
+      "name": "Chocolate Cake",
+      "type": "Collectable",
+      "rarity": "Epic",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarketwedding giftadventure"
+    },
+    {
+      "name": "Christmas Gift",
+      "type": "Pack",
+      "rarity": "Rare",
+      "sell_worth": "16667",
+      "sources": "source(s)\nmarket"
+    },
+    {
+      "name": "Christmas Tree",
+      "type": "Collectable",
+      "rarity": "Rare",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 crafting (limited time)\u2022 search (limited time)"
+    },
+    {
+      "name": "Coin Bomb",
+      "type": "Tool",
+      "rarity": "Common",
+      "sell_worth": "8334",
+      "sources": "source(s)\nmarket"
+    },
+    {
+      "name": "Coin Nuke",
+      "type": "Equipment",
+      "rarity": "Legendary",
+      "sell_worth": "1",
+      "sources": "source(s)\n\u2022 trading\u2022 level 16 000"
+    },
+    {
+      "name": "Coin Voucher",
+      "type": "Consumable",
+      "rarity": "Epic",
+      "sell_worth": "1666667",
+      "sources": "source(s)\n\u2022 market\u2022 patreon boxes\u2022 patreon packs\u2022 adventure"
+    },
+    {
+      "name": "Cookie",
+      "type": "Sellable",
+      "rarity": "Common",
+      "sell_worth": "568",
+      "sources": ""
+    },
+    {
+      "name": "Corn Seeds",
+      "type": "Tool",
+      "rarity": "Uncommon",
+      "sell_worth": "16667",
+      "sources": "source(s)\nmarketachievementfarm"
+    },
+    {
+      "name": "Corncob",
+      "type": "Sellable",
+      "rarity": "Uncommon",
+      "sell_worth": "465000",
+      "sources": ""
+    },
+    {
+      "name": "Corndog",
+      "type": "Sellable",
+      "rarity": "Rare",
+      "sell_worth": "70200",
+      "sources": "source(s)\nmarketsearchmini-event"
+    },
+    {
+      "name": "Cowboy Boots",
+      "type": "Collectable",
+      "rarity": "Rare",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 out west loot box\u2022 out west adventure"
+    },
+    {
+      "name": "Cowboy Hat",
+      "type": "Collectable",
+      "rarity": "Rare",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarketout west boxout west adventure"
+    },
+    {
+      "name": "Credit Card",
+      "type": "Power-up",
+      "rarity": "Epic",
+      "sell_worth": "333334",
+      "sources": "source(s)\nmarketmembership boxadventurefreemium"
+    },
+    {
+      "name": "Crunchy Taco",
+      "type": "Power-up",
+      "rarity": "Rare",
+      "sell_worth": "16667",
+      "sources": "source(s)\nmarketwork boxwork"
+    },
+    {
+      "name": "Cupid's Big Toe",
+      "type": "Power-up",
+      "rarity": "Common",
+      "sell_worth": "4167",
+      "sources": "source(s)\nmarketgod boxsanta's bag"
+    },
+    {
+      "name": "Cursed Pepe",
+      "type": "Collectable",
+      "rarity": "Epic",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nomega shopmarketdrops[1]"
+    },
+    {
+      "name": "Daily Box",
+      "type": "Loot Box",
+      "rarity": "Common",
+      "sell_worth": "100000",
+      "sources": "source(s)\nbox boxmarketdaily[note 1]store"
+    },
+    {
+      "name": "Dank Box",
+      "type": "Loot Box",
+      "rarity": "Uncommon",
+      "sell_worth": "600000",
+      "sources": "source(s)\nmarketbox boxstore"
+    },
+    {
+      "name": "Dank Memer",
+      "type": "Unknown",
+      "rarity": "Unknown",
+      "sell_worth": "N/A",
+      "sources": ""
+    },
+    {
+      "name": "Deer",
+      "type": "Sellable",
+      "rarity": "Common",
+      "sell_worth": "4500",
+      "sources": ""
+    },
+    {
+      "name": "Designer Hoodie",
+      "type": "Collectable",
+      "rarity": "Common",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 searching"
+    },
+    {
+      "name": "Developer Box",
+      "type": "Loot Box",
+      "rarity": "Legendary",
+      "sell_worth": "1000000",
+      "sources": "source(s)\nmarketdank boxgod boxbox boxlevel 5 000"
+    },
+    {
+      "name": "Developer Items",
+      "type": "Collectables",
+      "rarity": "Unknown",
+      "sell_worth": "N/A",
+      "sources": ""
+    },
+    {
+      "name": "Diamond",
+      "type": "Sellable",
+      "rarity": "Epic",
+      "sell_worth": "109500",
+      "sources": "source(s)\nfarmmarket"
+    },
+    {
+      "name": "Digging Trophy",
+      "type": "Collectable",
+      "rarity": "Godly",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 craft"
+    },
+    {
+      "name": "Dragon",
+      "type": "Sellable",
+      "rarity": "Uncommon",
+      "sell_worth": "71400",
+      "sources": "source(s)\nmarkethunt"
+    },
+    {
+      "name": "Duck",
+      "type": "Sellable",
+      "rarity": "Unknown",
+      "sell_worth": "N/A",
+      "sources": ""
+    },
+    {
+      "name": "Duct Tape",
+      "type": "Tool",
+      "rarity": "Uncommon",
+      "sell_worth": "33334",
+      "sources": "source(s)\nmarketsearchdaily boxesnormie boxesmeme boxesdank boxesgod boxes"
+    },
+    {
+      "name": "Ectoplasm",
+      "type": "Sellable",
+      "rarity": "Rare",
+      "sell_worth": "N/A",
+      "sources": ""
+    },
+    {
+      "name": "Electrifying Zing",
+      "type": "Power-up",
+      "rarity": "Godly",
+      "sell_worth": "500",
+      "sources": ""
+    },
+    {
+      "name": "Elf On The Shelf",
+      "type": "Power-up",
+      "rarity": "Legendary",
+      "sell_worth": "83334",
+      "sources": "source(s)\nmarketchristmas giftvote levelsearch"
+    },
+    {
+      "name": "Empowered Fart Bottle",
+      "type": "Tool",
+      "rarity": "Rare",
+      "sell_worth": "83334",
+      "sources": ""
+    },
+    {
+      "name": "Enchanted Badosz's Card",
+      "type": "Collectable",
+      "rarity": "Epic",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 drops (limited) \u2022 omega shop"
+    },
+    {
+      "name": "Energy Drink",
+      "type": "Power-up",
+      "rarity": "Rare",
+      "sell_worth": "296000",
+      "sources": "source(s)\nworking as a pro gamerwork boxmarket"
+    },
+    {
+      "name": "Engagement Ring",
+      "type": "Collectable",
+      "rarity": "Uncommon",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarketshop"
+    },
+    {
+      "name": "Exclusive Gems Box",
+      "type": "Loot Box",
+      "rarity": "Godly",
+      "sell_worth": "2000000",
+      "sources": "source(s)\nmarketpostmemesbundle boxgod boxmembership boxbox boxachievementsvotingfreemium"
+    },
+    {
+      "name": "Exclusive Gems Box",
+      "type": "Loot Box",
+      "rarity": "Godly",
+      "sell_worth": "2000000",
+      "sources": "source(s)\nmarketpostmemesbundle boxgod boxmembership boxbox boxachievementsvotingfreemium"
+    },
+    {
+      "name": "Fake ID",
+      "type": "Unknown",
+      "rarity": "Unknown",
+      "sell_worth": "N/A",
+      "sources": ""
+    },
+    {
+      "name": "Fart In A Bottle",
+      "type": "Consumable",
+      "rarity": "Uncommon",
+      "sell_worth": "16667",
+      "sources": "source(s)\nmarketdrops"
+    },
+    {
+      "name": "Fertilizer Bag",
+      "type": "Tool",
+      "rarity": "Uncommon",
+      "sell_worth": "16667",
+      "sources": "source(s)\nmarketvotingcraftdaily boxesvote packs"
+    },
+    {
+      "name": "Fidget Spinner",
+      "type": "Collectable",
+      "rarity": "Common",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarketold box"
+    },
+    {
+      "name": "Fierce Fang Fare",
+      "type": "Power-up",
+      "rarity": "Godly",
+      "sell_worth": "22000000",
+      "sources": ""
+    },
+    {
+      "name": "Fish Tackle Box",
+      "type": "Loot Box",
+      "rarity": "Epic",
+      "sell_worth": "1250000",
+      "sources": "source(s)\nfish shop market"
+    },
+    {
+      "name": "Fishing Trophy",
+      "type": "Collectable",
+      "rarity": "Godly",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market"
+    },
+    {
+      "name": "Fool's Notif",
+      "type": "Collectable",
+      "rarity": "Uncommon",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 old box"
+    },
+    {
+      "name": "Fossil",
+      "type": "Sellable",
+      "rarity": "Uncommon",
+      "sell_worth": "144000",
+      "sources": "source(s)\nmarket offersdig"
+    },
+    {
+      "name": "Freemium Ad",
+      "type": "Collectable",
+      "rarity": "Godly",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarketfreemium"
+    },
+    {
+      "name": "Fresh Bread",
+      "type": "Sellable",
+      "rarity": "Common",
+      "sell_worth": "4380",
+      "sources": "source(s)\nsearchmarketbundle box"
+    },
+    {
+      "name": "Friend's Gift",
+      "type": "Collectable",
+      "rarity": "Rare",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 old box"
+    },
+    {
+      "name": "Garbage",
+      "type": "Sellable",
+      "rarity": "Common",
+      "sell_worth": "2030",
+      "sources": "source(s)\nmarket"
+    },
+    {
+      "name": "Gift Box",
+      "type": "Collectable",
+      "rarity": "Rare",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 old box"
+    },
+    {
+      "name": "God Box",
+      "type": "Loot Box",
+      "rarity": "Rare",
+      "sell_worth": "1500000",
+      "sources": "source(s)\nmembership boxbox boxachievementsadventureand 5 other sources..."
+    },
+    {
+      "name": "Golden Coins",
+      "type": "Collectable",
+      "rarity": "Godly",
+      "sell_worth": "N/A",
+      "sources": ""
+    },
+    {
+      "name": "Golden Corndog",
+      "type": "Collectable",
+      "rarity": "Rare",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market"
+    },
+    {
+      "name": "Golden Nugget",
+      "type": "Sellable",
+      "rarity": "Rare",
+      "sell_worth": "794500",
+      "sources": "source(s)\nmarketout west adventureout west box"
+    },
+    {
+      "name": "Golden Plastic Bits",
+      "type": "Collectable",
+      "rarity": "Uncommon",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 searching\u2022 plastic boxes\u2022 posting memes\u2022 scratching"
+    },
+    {
+      "name": "Grass",
+      "type": "Collectable",
+      "rarity": "Epic",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 leveling up\u2022 vote levels"
+    },
+    {
+      "name": "Gravestone",
+      "type": "Collectable",
+      "rarity": "Uncommon",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarketdeath"
+    },
+    {
+      "name": "Green Screen",
+      "type": "Tool",
+      "rarity": "Uncommon",
+      "sell_worth": "16667",
+      "sources": "source(s)\nmarketstreamingachievement"
+    },
+    {
+      "name": "Grind Pack",
+      "type": "Pack",
+      "rarity": "Rare",
+      "sell_worth": "16667",
+      "sources": "source(s)\nmarketshop"
+    },
+    {
+      "name": "Grub Pail",
+      "type": "Power-up",
+      "rarity": "Godly",
+      "sell_worth": "N/A",
+      "sources": ""
+    },
+    {
+      "name": "Headphones",
+      "type": "Tool",
+      "rarity": "Uncommon",
+      "sell_worth": "16667",
+      "sources": ""
+    },
+    {
+      "name": "Hoe",
+      "type": "Tool",
+      "rarity": "Uncommon",
+      "sell_worth": "16667",
+      "sources": "source(s)\nmarketshop"
+    },
+    {
+      "name": "Holiday Stocking",
+      "type": "Collectable",
+      "rarity": "Epic",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarketdrops"
+    },
+    {
+      "name": "Holy Badosz's Bread",
+      "type": "Collectable",
+      "rarity": "Godly",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 craft"
+    },
+    {
+      "name": "Holy Water",
+      "type": "Collectable",
+      "rarity": "Godly",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 leveling up"
+    },
+    {
+      "name": "Hunting Rifle",
+      "type": "Tool",
+      "rarity": "Common",
+      "sell_worth": "6667",
+      "sources": "source(s)\nmarketnew player packshop"
+    },
+    {
+      "name": "Hunting Trophy",
+      "type": "Collectable",
+      "rarity": "Epic",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 craft"
+    },
+    {
+      "name": "Inflated Delicacy",
+      "type": "Power-up",
+      "rarity": "Godly",
+      "sell_worth": "500",
+      "sources": ""
+    },
+    {
+      "name": "Jacky o' Lanty",
+      "type": "Collectable",
+      "rarity": "Rare",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market"
+    },
+    {
+      "name": "Jar Of Singularity",
+      "type": "Collectable",
+      "rarity": "Rare",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 pepe goes to space!' adventure\u2022 space adventure boxes"
+    },
+    {
+      "name": "Junk",
+      "type": "Sellable",
+      "rarity": "Unknown",
+      "sell_worth": "350",
+      "sources": ""
+    },
+    {
+      "name": "Kable's Sunglasses",
+      "type": "Collectable",
+      "rarity": "Epic",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 craft\u2022 developer box\u2022 market"
+    },
+    {
+      "name": "Keyboard",
+      "type": "Tool",
+      "rarity": "Uncommon",
+      "sell_worth": "16667",
+      "sources": "source(s)\nmarketshopstream"
+    },
+    {
+      "name": "Ladybug",
+      "type": "Sellable",
+      "rarity": "Common",
+      "sell_worth": "N/A",
+      "sources": ""
+    },
+    {
+      "name": "Landmine",
+      "type": "Tool",
+      "rarity": "Common",
+      "sell_worth": "3334",
+      "sources": "source(s)\nmarketsearch"
+    },
+    {
+      "name": "Laptop",
+      "type": "Collectible",
+      "rarity": "Common",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarketold box"
+    },
+    {
+      "name": "Lasso",
+      "type": "Collectable",
+      "rarity": "Rare",
+      "sell_worth": "882000",
+      "sources": "source(s)\n\u2022 market\u2022 \"out west\" adventure\u2022 \"out west\" loot box"
+    },
+    {
+      "name": "Law Degree",
+      "type": "Sellable",
+      "rarity": "Rare",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarket offerswork"
+    },
+    {
+      "name": "Legacy Common Fish",
+      "type": "Sellable",
+      "rarity": "Common",
+      "sell_worth": "365",
+      "sources": ""
+    },
+    {
+      "name": "Legacy Exotic Fish",
+      "type": "Sellable",
+      "rarity": "Common",
+      "sell_worth": "7300",
+      "sources": ""
+    },
+    {
+      "name": "Legacy Fishing Bait",
+      "type": "Power-up",
+      "rarity": "Rare",
+      "sell_worth": "16667",
+      "sources": "source(s)\nmarketdaily boxnormie boxmeme boxwork boxwork"
+    },
+    {
+      "name": "Legacy Fishing Pole",
+      "type": "Tool",
+      "rarity": "Common",
+      "sell_worth": "4167",
+      "sources": "source(s)\nmarketnew player packshop"
+    },
+    {
+      "name": "Legacy Jelly Fish",
+      "type": "Sellable",
+      "rarity": "Common",
+      "sell_worth": "17520",
+      "sources": "source(s)\nmarketfish"
+    },
+    {
+      "name": "Legacy Kraken",
+      "type": "Collectable",
+      "rarity": "Uncommon",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nnot obtainable anymore"
+    },
+    {
+      "name": "Legacy Legendary Fish",
+      "type": "Sellable",
+      "rarity": "Uncommon",
+      "sell_worth": "70200",
+      "sources": "source(s)\nmarketfishing"
+    },
+    {
+      "name": "Legacy Rare Fish",
+      "type": "Sellable",
+      "rarity": "Unknown",
+      "sell_worth": "N/A",
+      "sources": ""
+    },
+    {
+      "name": "Life Saver",
+      "type": "Power-up",
+      "rarity": "Uncommon",
+      "sell_worth": "33334",
+      "sources": "source(s)\nmarket offerspet fetchsearchpostmemesshop"
+    },
+    {
+      "name": "Like Button",
+      "type": "Collectable",
+      "rarity": "Rare",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 work"
+    },
+    {
+      "name": "Literally Karen",
+      "type": "Collectable",
+      "rarity": "Legendary",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 level 10 000\u2022 omega 10\u2022 vote level 120"
+    },
+    {
+      "name": "Literally a Tree",
+      "type": "Sellable",
+      "rarity": "Rare",
+      "sell_worth": "262000",
+      "sources": "source(s)\nmarket"
+    },
+    {
+      "name": "Lotus Flower",
+      "type": "Sellable",
+      "rarity": "Godly",
+      "sell_worth": "265000",
+      "sources": "source(s)\nfarmmarket"
+    },
+    {
+      "name": "Lotus Seeds",
+      "type": "Tool",
+      "rarity": "Godly",
+      "sell_worth": "16667",
+      "sources": "source(s)\ngem shopmarket"
+    },
+    {
+      "name": "Lucky Horseshoe",
+      "type": "Power-up",
+      "rarity": "Uncommon",
+      "sell_worth": "12500",
+      "sources": "source(s)\nmarketdaily boxnormie boxmeme boxgrind packsearch"
+    },
+    {
+      "name": "Melmsie's Banana",
+      "type": "Collectable",
+      "rarity": "Godly",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 obtaining all achievements"
+    },
+    {
+      "name": "Melmsie's Beard",
+      "type": "Collectable",
+      "rarity": "Rare",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 developer boxes"
+    },
+    {
+      "name": "Membership Box",
+      "type": "Loot Box",
+      "rarity": "Legendary",
+      "sell_worth": "2000000",
+      "sources": "source(s)\nmarketpatreon page"
+    },
+    {
+      "name": "Membership Pack",
+      "type": "Pack",
+      "rarity": "Rare",
+      "sell_worth": "16667",
+      "sources": ""
+    },
+    {
+      "name": "Meme Box",
+      "type": "Loot Box",
+      "rarity": "Rare",
+      "sell_worth": "300000",
+      "sources": "source(s)\nmarket offerspet fetchnormie boxbox box\"vacation\" adventure"
+    },
+    {
+      "name": "Meme pills",
+      "type": "Sellable",
+      "rarity": "Epic",
+      "sell_worth": "225000",
+      "sources": "source(s)\nmarket working as a pharmacist"
+    },
+    {
+      "name": "Menorah",
+      "type": "Collectable",
+      "rarity": "Epic",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 adventure (limited)"
+    },
+    {
+      "name": "Meteorite",
+      "type": "Sellable",
+      "rarity": "Rare",
+      "sell_worth": "408000",
+      "sources": "source(s)\nmarketspace adventure"
+    },
+    {
+      "name": "Microphone",
+      "type": "Tool",
+      "rarity": "Uncommon",
+      "sell_worth": "16667",
+      "sources": "source(s)\nmarketstreamachievement"
+    },
+    {
+      "name": "Mistletoe",
+      "type": "Consumable",
+      "rarity": "Godly",
+      "sell_worth": "1666667",
+      "sources": "source(s)\nmarketadventure (limited)"
+    },
+    {
+      "name": "Mole Man",
+      "type": "Sellable",
+      "rarity": "Rare",
+      "sell_worth": "158950",
+      "sources": "source(s)\nmarketdigfarm"
+    },
+    {
+      "name": "Motivational Poster",
+      "type": "Power-up",
+      "rarity": "Rare",
+      "sell_worth": "16667",
+      "sources": "source(s)\nmarketwork boxwork"
+    },
+    {
+      "name": "Mouse",
+      "type": "Tool",
+      "rarity": "Uncommon",
+      "sell_worth": "16667",
+      "sources": "source(s)\nmarketstreamshop"
+    },
+    {
+      "name": "Multi Colored Plastic Bits",
+      "type": "Collectable",
+      "rarity": "Rare",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 crafting\u2022 plastic boxes\u2022 \"pepe goes on vacation\" adventure\u2022 posting memes\u2022 scratching\u2022 reaching level 2 500"
+    },
+    {
+      "name": "Musical Note",
+      "type": "Sellable",
+      "rarity": "Rare",
+      "sell_worth": "N/A",
+      "sources": ""
+    },
+    {
+      "name": "New Player Pack",
+      "type": "Pack",
+      "rarity": "Rare",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarketshop (one-time)"
+    },
+    {
+      "name": "New Years Popper",
+      "type": "Collectable",
+      "rarity": "Common",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 drops (limited)"
+    },
+    {
+      "name": "Normie Box",
+      "type": "Loot Box",
+      "rarity": "Rare",
+      "sell_worth": "35000",
+      "sources": "source(s)\nmarket offersbegsearchpetdailydigbox box"
+    },
+    {
+      "name": "Odd Eye",
+      "type": "Collectable",
+      "rarity": "Godly",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 level 7 000\u2022 omega 10"
+    },
+    {
+      "name": "Old Box",
+      "type": "Loot Box",
+      "rarity": "Legendary",
+      "sell_worth": "2000000",
+      "sources": "source(s)\nmembership boxgod boxbox boxadventure out west"
+    },
+    {
+      "name": "Old Cowboy Revolver",
+      "type": "Collectable",
+      "rarity": "Rare",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 out west adventure\u2022 out west box"
+    },
+    {
+      "name": "Orange Plastic Bits",
+      "type": "Collectable",
+      "rarity": "Common",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 searching\u2022 posting memes\u2022 plastic boxes\u2022 scratching"
+    },
+    {
+      "name": "Ornament",
+      "type": "Collectable",
+      "rarity": "Uncommon",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 adventure (limited)\u2022 search (limited)"
+    },
+    {
+      "name": "Out West Adventure Box",
+      "type": "Loot Box",
+      "rarity": "Epic",
+      "sell_worth": "1000000",
+      "sources": "source(s)\nmarketadventure voucher"
+    },
+    {
+      "name": "Padlock",
+      "type": "Consumed on use",
+      "rarity": "Common",
+      "sell_worth": "834",
+      "sources": "source(s)\nmarketanti-rob packbegpostmemessearchpetshop"
+    },
+    {
+      "name": "Membership Box",
+      "type": "Loot Box",
+      "rarity": "Legendary",
+      "sell_worth": "2000000",
+      "sources": "source(s)\nmarketpatreon page"
+    },
+    {
+      "name": "Membership Pack",
+      "type": "Pack",
+      "rarity": "Rare",
+      "sell_worth": "16667",
+      "sources": ""
+    },
+    {
+      "name": "Pepe Box",
+      "type": "Loot Box",
+      "rarity": "Rare",
+      "sell_worth": "1000000",
+      "sources": "source(s)\nmarket offersbox boxlevels"
+    },
+    {
+      "name": "Pepe Coin",
+      "type": "Collectable",
+      "rarity": "Uncommon",
+      "sell_worth": "N/A",
+      "sources": "source(s)\ndank boxgod boxlevelsmarketmeme boxnormie boxpatreon boxpepe box"
+    },
+    {
+      "name": "Pepe Crown",
+      "type": "Collectable",
+      "rarity": "Epic",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarketpepe boxesgod boxesvote levelleveling up"
+    },
+    {
+      "name": "Pepe Medal",
+      "type": "Collectable",
+      "rarity": "Rare",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarketpatreon boxespepe boxesachievementcraftlevel 2 000"
+    },
+    {
+      "name": "Pepe Ribbon",
+      "type": "Drop Item",
+      "rarity": "Unknown",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarketdrops(limited)"
+    },
+    {
+      "name": "Pepe Ring",
+      "type": "Collectable",
+      "rarity": "Legendary",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarketpepe box"
+    },
+    {
+      "name": "Pepe Statue",
+      "type": "Collectable",
+      "rarity": "Uncommon",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarketsearchdigpepe box"
+    },
+    {
+      "name": "Pepe Sus",
+      "type": "Collectable",
+      "rarity": "Legendary",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarketdrops (limited)"
+    },
+    {
+      "name": "Pepe Trophy",
+      "type": "Uncommon",
+      "rarity": "Unknown",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarketshopvote level"
+    },
+    {
+      "name": "Pet Collar",
+      "type": "Buff",
+      "rarity": "Rare",
+      "sell_worth": "16667",
+      "sources": "source(s)\nmarketwork"
+    },
+    {
+      "name": "Pet Feces",
+      "type": "Collectable",
+      "rarity": "Uncommon",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarketpets"
+    },
+    {
+      "name": "Pet Food",
+      "type": "Tool",
+      "rarity": "Rare",
+      "sell_worth": "8334",
+      "sources": "source(s)\nmarketcrafting"
+    },
+    {
+      "name": "Pet Saddle",
+      "type": "Collectable",
+      "rarity": "Rare",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarket\"out west\" adventure\"out west\" loot box"
+    },
+    {
+      "name": "Pink Plastic Bits",
+      "type": "Unknown",
+      "rarity": "Unknown",
+      "sell_worth": "N/A",
+      "sources": ""
+    },
+    {
+      "name": "Pink Rubber Ducky",
+      "type": "Collectible",
+      "rarity": "Godly",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nwinning the \"bit of a change\" event"
+    },
+    {
+      "name": "Pink Sludge Monster",
+      "type": "Sellable",
+      "rarity": "Godly",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nprize from the eventdigging"
+    },
+    {
+      "name": "Pizza Slice",
+      "type": "Power-up",
+      "rarity": "Common",
+      "sell_worth": "41667",
+      "sources": "source(s)\nmarketlevelling upsearchstack of cash"
+    },
+    {
+      "name": "Plastic Bag",
+      "type": "Sellable",
+      "rarity": "Epic",
+      "sell_worth": "77501",
+      "sources": "source(s)\nmarketadventure"
+    },
+    {
+      "name": "Plastic Box",
+      "type": "Loot Box",
+      "rarity": "Rare",
+      "sell_worth": "1000000",
+      "sources": "source(s)\nbox boxesleveling up"
+    },
+    {
+      "name": "Police Badge",
+      "type": "Collectable",
+      "rarity": "Rare",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarketsearchworkwork box"
+    },
+    {
+      "name": "Postcard",
+      "type": "Consumable",
+      "rarity": "Legendary",
+      "sell_worth": "83334",
+      "sources": "source(s)\n\"pepe goes to brazil!\" adventure"
+    },
+    {
+      "name": "Potato \u262d",
+      "type": "Sellable",
+      "rarity": "Uncommon",
+      "sell_worth": "6600",
+      "sources": "source(s)\nmarketsearchrusty machinefarm"
+    },
+    {
+      "name": "Potato \u262d",
+      "type": "Sellable",
+      "rarity": "Uncommon",
+      "sell_worth": "6600",
+      "sources": "source(s)\nmarketsearchrusty machinefarm"
+    },
+    {
+      "name": "Potato Seeds",
+      "type": "Tool",
+      "rarity": "Uncommon",
+      "sell_worth": "16667",
+      "sources": "source(s)\nmarketdaily boxshop"
+    },
+    {
+      "name": "Prestige Coin",
+      "type": "Power-up",
+      "rarity": "Rare",
+      "sell_worth": "166667",
+      "sources": "source(s)\nmarketprestigeomega shop"
+    },
+    {
+      "name": "Prestige Pack",
+      "type": "Item Pack",
+      "rarity": "Epic",
+      "sell_worth": "167",
+      "sources": ""
+    },
+    {
+      "name": "Prismatic Delight",
+      "type": "Power-up",
+      "rarity": "Godly",
+      "sell_worth": "500",
+      "sources": ""
+    },
+    {
+      "name": "Purple Plastic Bits",
+      "type": "Collectable",
+      "rarity": "Common",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 searching\u2022 plastic boxes\u2022 posting memes\u2022 scratching"
+    },
+    {
+      "name": "Puzzle Key",
+      "type": "Collectable",
+      "rarity": "Godly Collectable",
+      "sell_worth": "5000000000",
+      "sources": "source(s)\nmarketreaching level 15 000"
+    },
+    {
+      "name": "Rabbit",
+      "type": "Sellable",
+      "rarity": "Common",
+      "sell_worth": "2550",
+      "sources": ""
+    },
+    {
+      "name": "Rare Butterfly",
+      "type": "Collectable",
+      "rarity": "Godly",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarketdeveloper boxes"
+    },
+    {
+      "name": "Rare Pepe",
+      "type": "Collectible",
+      "rarity": "Common",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nbegmarket offers"
+    },
+    {
+      "name": "Reversal Card",
+      "type": "Collectable",
+      "rarity": "Uncommon",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 market\u2022 old boxes"
+    },
+    {
+      "name": "Ring Light",
+      "type": "Tool",
+      "rarity": "Uncommon",
+      "sell_worth": "16667",
+      "sources": ""
+    },
+    {
+      "name": "Robbers Mask",
+      "type": "Power-up",
+      "rarity": "Rare",
+      "sell_worth": "20000",
+      "sources": ""
+    },
+    {
+      "name": "Robbers Wishlist",
+      "type": "Tool",
+      "rarity": "Common",
+      "sell_worth": "75000",
+      "sources": "source(s)\nmarketsearch"
+    },
+    {
+      "name": "Royal Scepter",
+      "type": "Collectable",
+      "rarity": "Rare",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarketsearch"
+    },
+    {
+      "name": "Rusty Machine",
+      "type": "Tool",
+      "rarity": "Godly",
+      "sell_worth": "166667",
+      "sources": "source(s)\n\u2022 drop sales\u2022 market"
+    },
+    {
+      "name": "Sanic Hot Dog",
+      "type": "Collectable",
+      "rarity": "Rare",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarketcrime"
+    },
+    {
+      "name": "Santa's Bag",
+      "type": "Loot Box",
+      "rarity": "Rare",
+      "sell_worth": "100000",
+      "sources": "source(s)\nmarketwork boxbox boxwork"
+    },
+    {
+      "name": "Santa's Hat",
+      "type": "Collectable",
+      "rarity": "Unknown",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarketdrops (limited)"
+    },
+    {
+      "name": "School Urinal",
+      "type": "Collectable",
+      "rarity": "Rare",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarket old box"
+    },
+    {
+      "name": "Seaweed",
+      "type": "Sellable",
+      "rarity": "Unknown",
+      "sell_worth": "N/A",
+      "sources": ""
+    },
+    {
+      "name": "Shooting Star",
+      "type": "Collectable",
+      "rarity": "Rare",
+      "sell_worth": "N/A",
+      "sources": "source(s)\n\u2022 space adventure\u2022 crafting"
+    },
+    {
+      "name": "Shop Coupon",
+      "type": "Power-up",
+      "rarity": "Rare",
+      "sell_worth": "16667",
+      "sources": "source(s)\nmarket offersworkpatreon pack"
+    },
+    {
+      "name": "Shovel",
+      "type": "Tool",
+      "rarity": "Common",
+      "sell_worth": "6667",
+      "sources": "source(s)\nmarketnew player packsearchshop"
+    },
+    {
+      "name": "Shredded Cheese",
+      "type": "Power-up",
+      "rarity": "Common",
+      "sell_worth": "16667",
+      "sources": "source(s)\ndaily boxmarketsearchvote level"
+    },
+    {
+      "name": "Skunk",
+      "type": "Sellable",
+      "rarity": "Unknown",
+      "sell_worth": "N/A",
+      "sources": ""
+    },
+    {
+      "name": "Snowball",
+      "type": "Tool",
+      "rarity": "Common",
+      "sell_worth": "4167",
+      "sources": ""
+    },
+    {
+      "name": "Snowflake",
+      "type": "Collectable",
+      "rarity": "Uncommon",
+      "sell_worth": "N/A",
+      "sources": ""
+    },
+    {
+      "name": "Soggy Boots",
+      "type": "Sellable",
+      "rarity": "Godly",
+      "sell_worth": "483",
+      "sources": "source(s)\nfish"
+    },
+    {
+      "name": "Soggy Plant Clump",
+      "type": "Sellable",
+      "rarity": "Godly",
+      "sell_worth": "250",
+      "sources": "source(s)\nfishing"
+    },
+    {
+      "name": "Sound Card",
+      "type": "Tool",
+      "rarity": "Uncommon",
+      "sell_worth": "16667",
+      "sources": "source(s)\nmarketachievementstream"
+    },
+    {
+      "name": "Space Adventure Box",
+      "type": "Loot Box",
+      "rarity": "Rare",
+      "sell_worth": "1000000",
+      "sources": "source(s)\nmarketadventure voucher"
+    },
+    {
+      "name": "Spider",
+      "type": "Sellable",
+      "rarity": "Uncommon",
+      "sell_worth": "N/A",
+      "sources": ""
+    },
+    {
+      "name": "Spooky Mask",
+      "type": "Power-up",
+      "rarity": "Rare",
+      "sell_worth": "166667",
+      "sources": "source(s)\n\u2022  market offers\u2022 drops (limited)\u2022 adventure (formerly)"
+    },
+    {
+      "name": "Squishy Paw",
+      "type": "Collectable",
+      "rarity": "Epic",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nsearchdrops"
+    },
+    {
+      "name": "Stack of Cash",
+      "type": "Collectable",
+      "rarity": "Epic",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarketwork boxwork"
+    },
+    {
+      "name": "Star Fragment",
+      "type": "Sellable",
+      "rarity": "Rare",
+      "sell_worth": "996000",
+      "sources": "source(s)\nspace adventurespace loot box"
+    },
+    {
+      "name": "Stickbug",
+      "type": "sellable",
+      "rarity": "Common",
+      "sell_worth": "4180",
+      "sources": ""
+    },
+    {
+      "name": "Stolen Amulet",
+      "type": "Power-up",
+      "rarity": "Godly",
+      "sell_worth": "16667",
+      "sources": "source(s)\nwork"
+    },
+    {
+      "name": "Stonk Coin",
+      "type": "Unknown",
+      "rarity": "Unknown",
+      "sell_worth": "N/A",
+      "sources": ""
+    },
+    {
+      "name": "Stonk Machine",
+      "type": "Tool",
+      "rarity": "Rare",
+      "sell_worth": "16667",
+      "sources": "source(s)\nmarket offerswork"
+    },
+    {
+      "name": "Strawberry Shake",
+      "type": "Sellable",
+      "rarity": "Godly",
+      "sell_worth": "50000",
+      "sources": "source(s)\nmarketadventure"
+    },
+    {
+      "name": "Streak Freeze",
+      "type": "Power-up",
+      "rarity": "Rare",
+      "sell_worth": "333334",
+      "sources": "source(s)\nmarket offerspatreon packcrafting"
+    },
+    {
+      "name": "Sugar Skull",
+      "type": "Drop Item",
+      "rarity": "Unknown",
+      "sell_worth": "166667",
+      "sources": ""
+    },
+    {
+      "name": "Sunbear's D20",
+      "type": "Collectible",
+      "rarity": "Godly",
+      "sell_worth": "1666667",
+      "sources": "source(s)\nmarketdeveloper box"
+    },
+    {
+      "name": "Sunken Treasure",
+      "type": "Sellable",
+      "rarity": "\u23e3 10,000",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nfish"
+    },
+    {
+      "name": "Swordfish",
+      "type": "TBA (Most likely Sellable)",
+      "rarity": "TBA",
+      "sell_worth": "N/A",
+      "sources": "source(s)\ntba (most likely fishing)"
+    },
+    {
+      "name": "Tentacled Temptation",
+      "type": "Power-up",
+      "rarity": "Godly",
+      "sell_worth": "500",
+      "sources": ""
+    },
+    {
+      "name": "The Letter",
+      "type": "Collectable",
+      "rarity": "Common",
+      "sell_worth": "N/A",
+      "sources": ""
+    },
+    {
+      "name": "The Megaphone",
+      "type": "Collectable",
+      "rarity": "Rare",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarketcraftrusty machinepostmemes"
+    },
+    {
+      "name": "Tidepod",
+      "type": "Collectable",
+      "rarity": "Common",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarketold box"
+    },
+    {
+      "name": "Tip Jar",
+      "type": "Tool",
+      "rarity": "Rare",
+      "sell_worth": "16667",
+      "sources": ""
+    },
+    {
+      "name": "Toilet Paper",
+      "type": "Collectable",
+      "rarity": "Epic",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarket"
+    },
+    {
+      "name": "Tool Box",
+      "type": "Loot Box",
+      "rarity": "Godly",
+      "sell_worth": "1000000",
+      "sources": "source(s)\nvote shop"
+    },
+    {
+      "name": "Townie's Eyes",
+      "type": "Collectable",
+      "rarity": "Epic",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarketdeveloper box"
+    },
+    {
+      "name": "Trash",
+      "type": "Sellable",
+      "rarity": "Uncommon",
+      "sell_worth": "21400",
+      "sources": "source(s)\nmarket"
+    },
+    {
+      "name": "Treasure Map",
+      "type": "Collectable",
+      "rarity": "Rare",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarketadventureout west adventure box"
+    },
+    {
+      "name": "Trivia Trophy",
+      "type": "Collectable",
+      "rarity": "Common",
+      "sell_worth": "N/A",
+      "sources": "source(s)\ntrivia"
+    },
+    {
+      "name": "Tumbleweed",
+      "type": "Collectable",
+      "rarity": "Rare",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarketadventure"
+    },
+    {
+      "name": "Universe Box",
+      "type": "Loot Box",
+      "rarity": "Godly",
+      "sell_worth": "1000000000",
+      "sources": "source(s)\ngem shopnov 2023 vote levels"
+    },
+    {
+      "name": "Used Diaper",
+      "type": "Tool",
+      "rarity": "Uncommon",
+      "sell_worth": "16667",
+      "sources": "source(s)\nmarketwedding giftwork boxwork"
+    },
+    {
+      "name": "Vaccine",
+      "type": "Sellable",
+      "rarity": "Epic",
+      "sell_worth": "2140000",
+      "sources": "source(s)\nmarketwork boxwork"
+    },
+    {
+      "name": "Voodoo Doll",
+      "type": "Tool",
+      "rarity": "Epic",
+      "sell_worth": "166667",
+      "sources": "source(s)\nmarket"
+    },
+    {
+      "name": "Vote Pack",
+      "type": "Pack",
+      "rarity": "Rare",
+      "sell_worth": "16667",
+      "sources": "source(s)\nmarketvoting"
+    },
+    {
+      "name": "Water Bucket",
+      "type": "Tool",
+      "rarity": "Rare",
+      "sell_worth": "16667",
+      "sources": "source(s)\nmarketdaily boxshop"
+    },
+    {
+      "name": "Watering Can",
+      "type": "Tool",
+      "rarity": "Rare",
+      "sell_worth": "16667",
+      "sources": "source(s)\nmarket"
+    },
+    {
+      "name": "Watermelon",
+      "type": "Sellable",
+      "rarity": "Rare",
+      "sell_worth": "112500",
+      "sources": "source(s)\nmarketfarm"
+    },
+    {
+      "name": "Watermelon Seeds",
+      "type": "Tool",
+      "rarity": "Uncommon",
+      "sell_worth": "13334",
+      "sources": "source(s)\nmarketfarmlevels"
+    },
+    {
+      "name": "Wedding Gift",
+      "type": "Loot Box",
+      "rarity": "Rare",
+      "sell_worth": "60000",
+      "sources": "source(s)\nmarketmarriage"
+    },
+    {
+      "name": "Weet's Donut",
+      "type": "Sellable",
+      "rarity": "Godly",
+      "sell_worth": "260000",
+      "sources": "source(s)\ndeveloper box  postmemes  market"
+    },
+    {
+      "name": "Winning Lottery Ticket",
+      "type": "Collectable",
+      "rarity": "Epic",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarketlottery"
+    },
+    {
+      "name": "Work Box",
+      "type": "Loot Box",
+      "rarity": "Epic",
+      "sell_worth": "2000000",
+      "sources": "source(s)\nmarketbox boxlevels"
+    },
+    {
+      "name": "Worm",
+      "type": "Sellable",
+      "rarity": "Common",
+      "sell_worth": "1673",
+      "sources": "source(s)\nmarketfarmdig"
+    },
+    {
+      "name": "Zig's Capybara",
+      "type": "Sellable",
+      "rarity": "Rare",
+      "sell_worth": "209001",
+      "sources": "source(s)\ndeveloper boxmarkethunt"
+    },
+    {
+      "name": "ZomB's ZomBee",
+      "type": "Collectable",
+      "rarity": "Epic",
+      "sell_worth": "N/A",
+      "sources": "source(s)\nmarketdeveloper boxsearch"
+    }
+  ],
+}
